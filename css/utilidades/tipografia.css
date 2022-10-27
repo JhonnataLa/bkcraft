@@ -37,12 +37,12 @@
 }
 
 .font-2-xs {
-  font: 400 0.875/1.428 "Roboto";
+  font: 400 0.875rem/1.428 "Roboto";
 }
 
 .font-1-xs {
   /* Bold */
-  font: 600 0.75/1.333 "Poppins";
+  font: 600 0.75rem/1.333 "Poppins";
 }
 
 @media (max-width: 1200px) {
